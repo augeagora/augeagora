@@ -1,4 +1,4 @@
-<h1 align="center">Auge Agora</h1>
+<h1 align="center">k l u m o r i</h1>
 <p align="center">Hey, I'm Douglas Serrano. Currently learning C# at the moment. I'm also short.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=augeagora&theme=rose&show_icons=true" />
