@@ -4,6 +4,6 @@
 <div align="center">
   <h3>My Stuffs:</h3>
   <a href="https://wakatime.com/@augeagora">Wakatime</a>
-  <a href="https://wakatime.com/@augeagora](https://monkeytype.com/profile/augeagora">Monkeytype</a>
+  <a href="https://monkeytype.com/profile/augeagora">Monkeytype</a>
   
 </div>
