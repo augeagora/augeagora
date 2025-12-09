@@ -5,6 +5,4 @@
   <h3>My Stuffs:</h3>
   <a href="https://wakatime.com/@augeagora">Wakatime</a>
   <a href="https://monkeytype.com/profile/augeagora">Monkeytype</a>
-  <a href="https://x.com/augeagora">X</a>
-  <a href="https://bsky.app/profile/augeagora.bsky.social">Bsky</a>
 </div>
